@@ -184,14 +184,14 @@ keyshard.applyTransfer(walletId, toAddress, amount, listener -> {
 
 After the minimum number of participants (as configured in the wallet policy) approve the transaction, threshold signing is ready for execution.
 
-## SAMPLE USAGE
+## Sample Usage
 The following file are provided for the keyshard client in the sample folder:
 
 - KeyShardDemo.jar
 
 before execute the jar, config for libs must be effective
 
-### init wallet:
+### Init Wallet:
 
 java -jar KeyShardDemo.jar -e {your email} -c {your company} -n {your name} -w {wallet name}
 
@@ -205,7 +205,7 @@ Returns:
 
 - The id of wallet
 
-### join wallet
+### Join Wallet
 
 java -jar KeyShardDemo.jar -i {walletId}
 
@@ -215,7 +215,7 @@ Parameters:
 Returns:
 - the wallet address
 
-### Wallet transfer
+### Wallet Transfer
 java -jar KeyShardDemo.jar -i {walletId} -t {recipientAddress} -v {transfer amount}
 
 Parameters:
