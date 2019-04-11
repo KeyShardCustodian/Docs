@@ -33,7 +33,7 @@ Linux platform is supported. SDKs for other platform are coming soon.
 - Ubuntu 16.04/CentOS 7.4 and later
 
 ##### Platform
-- GCC 5.4.0 or newer
+- GCC 4.8.5 or newer
 - Oracle Java 64-bit JVM 8 or newer
 - JDK 1.8.0 or newer
 
