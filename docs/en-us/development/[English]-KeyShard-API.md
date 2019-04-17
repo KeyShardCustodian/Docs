@@ -14,7 +14,7 @@ This reference includes operations:
 2. Transfer coins
 
 ### Supported Coins
-* BTC, BCH, ETH, ETC, XRP, EOS, USDT, LTC, ADA, TRX, DASH, XTZ, XLM, ERC20
+* BTC, BCH, ETH, ETC, XRP, EOS, USDT, LTC, ADA, TRX, DASH, XTZ, ERC20
 
 * For free trial
 
