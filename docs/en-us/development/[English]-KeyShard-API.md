@@ -16,10 +16,7 @@ This reference includes operations:
 ### Supported Coins
 * BTC, BCH, ETH, ETC, XRP, EOS, USDT, LTC, ADA, TRX, DASH, XTZ, ERC20
 
-* For free trial
-
-  Energon - [PlatON Testnet](https://www.platon.network/#/)
-
+* Free trail version only supports [Energon](https://www.platon.network/#/)
 
 
 ### Pre-requisites
