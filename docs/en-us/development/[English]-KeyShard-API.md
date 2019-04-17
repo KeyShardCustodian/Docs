@@ -14,9 +14,9 @@ This reference includes operations:
 2. Transfer coins
 
 ### Supported Coins
-* BTC, BCH, ETH, ETC, XRP, EOS, USDT, LTC,ADA,TRX,DASH,XTZ, XLM ,ERC20
+* BTC, BCH, ETH, ETC, XRP, EOS, USDT, LTC, ADA, TRX, DASH, XTZ, XLM, ERC20
 
-* for free trial
+* For free trial
 
   Energon - [PlatON Testnet](https://www.platon.network/#/)
 
